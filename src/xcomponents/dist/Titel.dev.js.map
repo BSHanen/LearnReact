@@ -1,0 +1,1 @@
+{"version":3,"sources":["Titel.js"],"names":["Tetel"],"mappings":";;;;;;;;;AAAA;;;;;;eACeA,K","sourcesContent":["import React,{Component} from \"react\";\nexport default Tetel ;"],"file":"Titel.dev.js"}

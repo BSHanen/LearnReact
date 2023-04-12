@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.js"],"names":["App"],"mappings":";;;;;;;AAAA;;AACA;;AACA;;AACA;;;;eAEeA,G","sourcesContent":["import React from \"react\";\nimport Titel from \"./Titel\";\nimport Content from \"./Content\";\nimport items from \"./items\";\n\nexport default App ;"],"file":"App.dev.js"}

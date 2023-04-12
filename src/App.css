@@ -1,0 +1,19 @@
+h1{
+  
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+P{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+input{
+  
+  font-size: 30px;
+}
+input[type="checkbox"]{
+  margin-left: 20px;
+}
